@@ -4,6 +4,8 @@ Hello world!
 
 *We craft software with people we love*
 
+We’re techies who solve complex problems and love contributing to the community.
+
 Our culture reflects our lean approach to work and self organisational attitude. We encourage our colleagues to take risks, make their own decisions and talk with everyone to make communications efficient and swift. Everyone embraces ownership of their work, their team and of everything that happens in the day to day of the projects and of our organisation.
 
 
