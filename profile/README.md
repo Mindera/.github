@@ -1,9 +1,9 @@
 Hello world!
-
+====================
 
 *We craft software with people we love*
 
-====================
+
 ## Who are we?
 
 We’re techies who solve complex problems and love contributing to the community.
